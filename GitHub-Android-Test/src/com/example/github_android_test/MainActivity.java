@@ -19,5 +19,5 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-    
+    // Der Kommentar kommt von der GitHub-Seite
 } // ENDE DER KLASSE MainActivity
